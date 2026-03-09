@@ -1,0 +1,6 @@
+#Ignore dataset
+*.csv
+
+#Ignore environment
+.venv/
+venv/
