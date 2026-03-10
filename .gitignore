@@ -1,6 +1,17 @@
-#Ignore dataset
+# datasets
 *.csv
 
-#Ignore environment
-.venv/
+# virtual environments
 venv/
+.venv/
+env/
+
+# python cache
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints
+
+# environment variables
+.env
